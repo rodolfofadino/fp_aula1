@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapNew", "FiapNew\FiapNew.csproj", "{F80978D4-A33B-49DE-B1FC-669CC45FC4D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroPessoas", "CadastroPessoas\CadastroPessoas.csproj", "{873FFE83-DCE6-4A51-9921-40CECD5F5936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80978D4-A33B-49DE-B1FC-669CC45FC4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80978D4-A33B-49DE-B1FC-669CC45FC4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80978D4-A33B-49DE-B1FC-669CC45FC4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80978D4-A33B-49DE-B1FC-669CC45FC4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873FFE83-DCE6-4A51-9921-40CECD5F5936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873FFE83-DCE6-4A51-9921-40CECD5F5936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873FFE83-DCE6-4A51-9921-40CECD5F5936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873FFE83-DCE6-4A51-9921-40CECD5F5936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

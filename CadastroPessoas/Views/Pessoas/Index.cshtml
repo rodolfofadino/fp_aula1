@@ -1,0 +1,14 @@
+﻿@model List<CadastroPessoas.Models.Pessoa>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<ul>
+    @foreach (var pessoa in Model)
+    {
+        <li>
+            @pessoa.Id @pessoa.Nome
+        </li>
+    }
+</ul>
